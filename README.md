@@ -75,8 +75,7 @@ Seu gesto solidário ficará registrado com muito carinho! 🎀💞
 
 - HTML5 🧾  
 - CSS3 🎨  
-- JavaScript ✨  
-- React ⚛️  
+- JavaScript ✨   
 - MockAPI 🌐  
 
 ---
